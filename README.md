@@ -2,4 +2,4 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ## Repo görüntüsü
 
-** ![Repo](src/repo.jpg) **
+** ![Repo](src/repo.bmp) **
